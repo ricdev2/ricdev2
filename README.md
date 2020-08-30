@@ -21,4 +21,4 @@ jshell> Java developer foucus in find the best practices and new technology.
 <center><p>I'm a software developer using java as the main technology, I like to learn about new technologies and paradigms and apply them in solving problems. I also spend some time reading books on biographies of prominent figures in the field of computer science like Steve Jobs or visionaries like Elon Musk. The technologies that I develop are mainly with Java, Python and Scala technology, which by the way are books on these topics and are almost always on Amazon.</p></center>
 
 
-[![RicDevs's github stats](https://github-readme-stats.vercel.app/api?username=ricdev2&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ricdev2/github-readme-stats)
+[![RicDevs's github stats](https://github-readme-stats.vercel.app/api?username=ricdev2&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=ricdev2&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
