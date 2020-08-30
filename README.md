@@ -5,9 +5,9 @@
 
 <p align='center'>
 <a href="https://dev.to/ricdev2" target="_blank"><img height="30" src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Ric_Dev2"><img height="30" src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ricdev2"><img height="30" src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/instagram.jpg?raw=true">&nbsp;&nbsp;
-<a href="https://medium.com/@ricardoupiicsa02"><img height="30" src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/medium.png?raw=true">  
+<a href="https://twitter.com/Ric_Dev2" target="_blank"><img height="30" src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/ricdev2" target="_blank"><img height="30" src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/instagram.jpg?raw=true">&nbsp;&nbsp;
+<a href="https://medium.com/@ricardoupiicsa02" target="_blank"><img height="30" src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/medium.png?raw=true">  
 </p>
 
 ### I'm Ricardo :computer: :smiley:
