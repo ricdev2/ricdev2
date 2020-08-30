@@ -1,6 +1,6 @@
 
 <center>
-  <img src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/kekebanner300.png">
+  <img src="https://raw.githubusercontent.com/ricdev2/ricdev2/master/imgs/banner.png">
 </center>
 
 <p align='center'>
