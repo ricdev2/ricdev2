@@ -17,3 +17,7 @@
 ```
 jshell> Java developer foucus in find the best practices and new technology.
 ```
+
+[![RicDevs's github stats](https://github-readme-stats.vercel.app/api?username=ricdev2&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ricdev2/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricdev2&layout=compact)](https://github.com/ricdev2/github-readme-stats)
